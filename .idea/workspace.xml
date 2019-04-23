@@ -77,6 +77,7 @@
     <property name="LINKC_GROUP_BY_USER_ACTION" value="ALL" />
     <property name="LINKC_SEARCH_ACTION" value="" />
     <property name="LINKC_SERVICE_ENABLE_KEY" value="0" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
